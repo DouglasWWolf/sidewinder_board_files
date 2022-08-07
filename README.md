@@ -2,10 +2,10 @@
 
 The "sidewinder" folder in this repo should be installed in:
 
-<vivado_root>/Vivado/2021.1/data/boards/board_files
+`<vivado_root>/Vivado/2021.1/data/boards/board_files`
 
 The result should be a folder called:
 
-<vivado_root>/Vivado/2021.1/data/boards/board_files/sidewinder
+`<vivado_root>/Vivado/2021.1/data/boards/board_files/sidewinder`
 
 
