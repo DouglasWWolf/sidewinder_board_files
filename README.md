@@ -1,1 +1,2 @@
-# sidewinder_board_files
+# Sidewinder board files for Vivado
+
